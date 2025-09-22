@@ -9,13 +9,13 @@ Click on the title above to see my current and previous projects!
 
 ## Coding Languages & Programs ##
 
-<img src="javascript-logo.png" alt="javascript logo" width=100 height=100><img src="html-logo.png" alt="HTML logo" width=100 height=100>
-<img src="css-logo.png" alt="CSS logo" width=100 height=100><img src="markdown-logo.png" alt="markdown logo" width=100 height=100>
-<img src="csharp-logo.png" alt="C Sharp logo" width=100 height=100>
+<img src="./images/javascript-logo.png" alt="javascript logo" width=100 height=100><img src="./images/html-logo.png" alt="HTML logo" width=100 height=100>
+<img src="./images/css-logo.png" alt="CSS logo" width=100 height=100><img src="./images/markdown-logo.png" alt="markdown logo" width=100 height=100>
+<img src="./images/csharp-logo.png" alt="C Sharp logo" width=100 height=100>
 
-<img src="vscode-logo.png" alt="Visual Studio Code logo" width=100 height=100><img src="unity-logo.png" alt="Unity 3D logo" width=100 height=100>
-<img src="blender-logo.png" alt="Blender3D logo" width=100 height=100><img src="zbrush-logo.png" alt="zBrush logo" width=100 height=100>
-<img src="3dsmax-logo.png" alt="3DSMax logo" width=100 height=100>
+<img src="./images/vscode-logo.png" alt="Visual Studio Code logo" width=100 height=100><img src="./images/unity-logo.png" alt="Unity 3D logo" width=100 height=100>
+<img src="./images/blender-logo.png" alt="Blender3D logo" width=100 height=100><img src="./images/zbrush-logo.png" alt="zBrush logo" width=100 height=100>
+<img src="./images/3dsmax-logo.png" alt="3DSMax logo" width=100 height=100>
 
 ## Education ##
 
